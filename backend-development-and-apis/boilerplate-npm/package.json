@@ -1,8 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
+	"dependencies": {},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -11,5 +9,13 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Phi Long Bui"
+	"author": "Phi Long Bui",
+	"description": "A project of the backend and apis track",
+	"keywords": [
+		"hello",
+		"freecodecamp",
+		"words"
+	],
+	"license": "MIT",
+	"version": "1.0"
 }
