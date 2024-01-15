@@ -10,4 +10,5 @@ I'm excited to share my journey through the Relational Database Course, where I 
 
 - **Git**: The course wrapped up with Git, a version control system. Now, I can track my work, collaborate with others, and revert changes when needed.
 <br/>
+
 **Certification:** [![Certification](https://img.shields.io/badge/FreeCodeCamp-Certification-black.svg)](https://www.freecodecamp.org/certification/tonybui/relational-database-v8)
