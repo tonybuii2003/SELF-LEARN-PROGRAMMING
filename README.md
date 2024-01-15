@@ -1,4 +1,4 @@
-# My Experience with the Relational Database Course [![Certification](https://img.shields.io/badge/FreeCodeCamp-Certification-black.svg)](https://www.freecodecamp.org/certification/tonybui/relational-database-v8)
+# Relational Database [![Certification](https://img.shields.io/badge/FreeCodeCamp-Certification-black.svg)](https://www.freecodecamp.org/certification/tonybui/relational-database-v8)
 
 I'm excited to share my journey through the Relational Database Course, where I explored developer tools like VS Code, PostgreSQL, and the Linux/Unix command line. The course's hands-on approach helped me gain practical experience and knowledge.
 
