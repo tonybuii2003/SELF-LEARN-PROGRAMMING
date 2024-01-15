@@ -1,4 +1,4 @@
-# My Experience with the Relational Database Course
+# My Experience with the Relational Database Course [![Certification](https://img.shields.io/badge/FreeCodeCamp-Certification-black.svg)](https://www.freecodecamp.org/certification/tonybui/relational-database-v8)
 
 I'm excited to share my journey through the Relational Database Course, where I explored developer tools like VS Code, PostgreSQL, and the Linux/Unix command line. The course's hands-on approach helped me gain practical experience and knowledge.
 
@@ -9,6 +9,3 @@ I'm excited to share my journey through the Relational Database Course, where I 
 - **PostgreSQL and SQL**: I learned to create and use a relational database using PostgreSQL and SQL. These skills are crucial for managing databases efficiently.
 
 - **Git**: The course wrapped up with Git, a version control system. Now, I can track my work, collaborate with others, and revert changes when needed.
-<br/>
-
-**Certification:** [![Certification](https://img.shields.io/badge/FreeCodeCamp-Certification-black.svg)](https://www.freecodecamp.org/certification/tonybui/relational-database-v8)
